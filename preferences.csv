@@ -1,0 +1,13 @@
+Name,Reputation,Cost,Content selection,Users,Reliability,Safety,Capacity,Ease
+Netflix,10,4,6,10,10,10,10,10
+YouTube,10,2,4,10,10,10,10,4
+Hulu,8,4,7,8,10,10,10,10
+iTunes,8,2,10,10,10,10,10,8
+ThePirateBay,8,10,10,10,6,6,10,2
+KickassTorrents,6,10,10,10,6,6,10,2
+Torrentz,6,10,10,8,6,6,8,4
+Primewire,6,10,10,6,8,8,8,6
+Extratorrent,6,10,8,8,4,4,6,2
+RARBG,2,10,8,4,6,4,4,2
+VK,10,10,6,10,10,7,6,3
+TorrentHound,2,10,8,2,4,4,4,2
